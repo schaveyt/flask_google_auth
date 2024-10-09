@@ -1,0 +1,12 @@
+/* Custom styles for Flask Google Auth App */
+
+.google-signin-button {
+    transition: all 0.3s ease;
+}
+
+.google-signin-button:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+/* Add any additional custom styles here */
